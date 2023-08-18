@@ -1,4 +1,4 @@
-# Star Wars Characters
+# 0x06-Starwars_api
 
 This script is designed to retrieve and display all characters from a specific Star Wars movie using the Star Wars API. It takes a Movie ID as a positional argument and then fetches the character data associated with that movie from the API's `/films/` endpoint. The script utilizes the `request` module to make API calls and then prints out the character names in the same order as the `characters` list in the `/films/` endpoint.
 

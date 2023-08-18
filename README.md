@@ -23,10 +23,18 @@ This Python script, `0-validate_utf8.py`, implements a method that determines wh
 - The data set can contain multiple characters.
 
 
-## 5. N Queens
+## 5. 0x05-nqueens
 
 The N queens puzzle is a classic chess problem that involves placing N non-attacking queens on an N×N chessboard. The challenge is to find all possible solutions for this problem.
 
 Please refer to each directory for specific information and further details on the files and code contained within.
 
 Thank you for visiting! Happy coding!
+
+## 0x06-Starwars_api
+
+This script is designed to retrieve and display all characters from a specific Star Wars movie using the Star Wars API. It takes a Movie ID as a positional argument and then fetches the character data associated with that movie from the API's `/films/` endpoint. The script utilizes the `request` module to make API calls and then prints out the character names in the same order as the `characters` list in the `/films/` endpoint.
+
+# 0x07-rotate_2d_matrix
+
+This repository contains a Python script that implements a function to rotate a given n x n 2D matrix by 90 degrees clockwise. The matrix is rotated in-place, and the function is designed to modify the matrix directly without returning anything.

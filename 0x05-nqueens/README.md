@@ -1,4 +1,4 @@
-# N Queens
+# 0x05-nqueens
 
 The N queens puzzle is a classic chess problem that involves placing N non-attacking queens on an N×N chessboard. The challenge is to find all possible solutions for this problem.
 
