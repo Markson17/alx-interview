@@ -42,3 +42,7 @@ This repository contains a Python script that implements a function to rotate a 
 ## 0x08-making_change
 
 This repository contains a Python script that implements an algorithm for solving the problem of making change using the fewest number of coins. Given a pile of coins of different values and a target amount total, the script determines the minimum number of coins required to meet the total using the available coin denominations.
+
+## 0x09-island_perimeter
+
+This repository contains a Python script that calculates the perimeter of an island described in a grid.
