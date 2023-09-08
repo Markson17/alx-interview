@@ -46,3 +46,9 @@ This repository contains a Python script that implements an algorithm for solvin
 ## 0x09-island_perimeter
 
 This repository contains a Python script that calculates the perimeter of an island described in a grid.
+
+## 0x0A-primegame
+
+Maria and Ben are playing a game where they take turns choosing prime numbers from a set of consecutive integers. The set starts from 1 up to and including n. The objective is to remove the chosen prime number and all its multiples from the set. The player who cannot make a move loses the game.
+
+In this game, Maria always goes first, and both players play optimally. Your task is to determine the winner of each round and find out who won the most rounds out of x rounds.
